@@ -1,0 +1,7 @@
+Project check 
++ https://github.com/fabric8io/spring-cloud-kubernetes
+https://github.com/spring-cloud/spring-cloud-kubernetes
+https://github.com/xpadro/spring-integration
+https://github.com/spring-projects/spring-integration-extensions
+https://github.com/spring-cloud/spring-cloud-netflix
+https://github.com/spring-cloud/spring-cloud-aws
