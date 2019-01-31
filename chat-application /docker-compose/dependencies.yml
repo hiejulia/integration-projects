@@ -1,0 +1,85 @@
+version: '3'
+services:
+
+  # Redis 
+  redis:
+    image: "redis:3.0.6"
+    ports:
+      - "6379:6379"
+
+
+
+  # Cassandra 
+  cassandra:
+    image: "cassandra:3.0"
+    ports:
+      - "9042:9042"
+
+
+  # MySQL 
+    
+  # mysql:
+  #   # Add volume 
+  #   image: "mysql:5.7"
+  #   ports:
+  #     - "3306:3306"
+  #   environment:
+  #     MYSQL_ROOT_PASSWORD: password 
+  #     MYSQL_DATABASE: chat_mysql_db
+  #     MYSQL_USER: root
+  #     MYSQL_ROOT_PASSWORD: Password1
+  #   expose:
+  #     # Opens port 3306 on the container
+  #     - '3306'
+
+
+  # PostgreSQL docker container - database 
+  # postgresql:
+  #   image: postgres:latest
+  #   restart: always
+  #   environment:
+  #     POSTGRES_DB: chat_postgresql_db
+  #     POSTGRES_USER: admin
+  #     POSTGRES_PASSWORD: password
+  #   ports:
+  #     - 49151:5432
+    # volumes:
+    #   - database_data1:/var/lib/postgresql/data
+
+  
+
+  rabbitmq-stomp:
+    image: "jorgeacetozi/rabbitmq-stomp:3.6"
+    ports:
+      # - "5672:5672"
+      - "5671:5671"
+      - "15672:15672"
+      # - "61613:61613"
+      - "61617:61617"
+  # No van bth day - Chi nay co kha nang tap trung cuc ki cao 
+
+
+      #15672 => RabbitMQ web management (http access)
+#61613 => RabbitMQ STOMP broker port (transport)
+#5672 => RabbitMQ default node port (transport)
+      
+
+
+# IP address : 127.0.0.1
+
+
+
+
+# Con nho nay hot du - du me - ta danh gia nham doi thu roi - kho bien - no cuc ki hien - da noi - ho co li tri 
+
+
+
+# Ban nay co kinh nghiem yeu duong day - bo tay 
+
+
+# ge that 
+
+# No code cung kha nhieu 
+
+
+# No thich ma - vai chuong 

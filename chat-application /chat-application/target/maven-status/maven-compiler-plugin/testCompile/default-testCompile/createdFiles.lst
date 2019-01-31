@@ -1,0 +1,13 @@
+br/com/jorgeacetozi/ebookChat/unitTests/chatroom/domain/service/RedisChatRoomServiceTest.class
+br/com/jorgeacetozi/ebookChat/unitTests/UnitTestsSuite.class
+br/com/jorgeacetozi/ebookChat/integrationTests/authentication/api/AuthenticationControllerTest.class
+br/com/jorgeacetozi/ebookChat/integrationTests/test/EbookChatTest.class
+br/com/jorgeacetozi/ebookChat/unitTests/chatroom/domain/model/InstantMessageBuilderTest.class
+br/com/jorgeacetozi/ebookChat/integrationTests/chatroom/api/ChatRoomControllerTest.class
+br/com/jorgeacetozi/ebookChat/unitTests/utils/DestinationsTest.class
+br/com/jorgeacetozi/ebookChat/integrationTests/chatroom/domain/service/CassandraInstantMessageServiceTest.class
+br/com/jorgeacetozi/ebookChat/integrationTests/test/AbstractIntegrationTest.class
+br/com/jorgeacetozi/ebookChat/unitTests/utils/SystemMessagesTest.class
+br/com/jorgeacetozi/ebookChat/integrationTests/chatroom/domain/service/RedisChatRoomServiceTest.class
+br/com/jorgeacetozi/ebookChat/integrationTests/IntegrationTestsSuite.class
+br/com/jorgeacetozi/ebookChat/integrationTests/authentication/domain/service/DefaultUserServiceTest.class
