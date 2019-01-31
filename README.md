@@ -32,7 +32,11 @@ Collections of project related to Enterprise integration
     + Click the username to send private message 
 
 
-+ Feature 2 : 
++ Feature 2 : Spark streaming web logs 
+    + Stream web logs 
+    + Apache Kafka 
+
+
 
 
 
@@ -55,3 +59,6 @@ Collections of project related to Enterprise integration
 
 
 
+
+
+1 khia canh moi con nho nay y chang nhu con trai 

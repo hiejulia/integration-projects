@@ -39,7 +39,7 @@ https://github.com/hawtio/hawtio-integration
 https://github.com/dturanski/spring-integration-flow
 https://github.com/dturanski/spring-integration-flow
 
-
+https://github.com/Apress/pro-spring-intg
 
 
 --------------
