@@ -20,7 +20,6 @@ https://github.com/typesafehub/activator-akka-java-spring
 https://github.com/spring-projects/spring-integration-aws
 https://github.com/graphql-java/graphql-java-spring
 https://github.com/ibm-messaging/mq-jms-spring
-https://github.com/yangboz/spring-boot-activiti-restful
 
 https://github.com/bhagyas/spring-mahout-demo
 https://github.com/spring-cloud/spring-cloud-stream-modules
@@ -43,11 +42,8 @@ https://github.com/dturanski/spring-integration-flow
 
 
 
-
-
-
 --------------
-
+no khong thich ai het 
 
 
 
