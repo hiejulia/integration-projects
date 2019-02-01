@@ -78,6 +78,15 @@ KubeDNS is running at https://192.168.99.100:8443/api/v1/namespaces/kube-system/
 
 
 
+
+
+
+
+
+
+
+
+
     
 
 
