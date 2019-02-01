@@ -57,3 +57,28 @@ Collections of project related to Enterprise integration
 
 
 
+# Install and start minikube
+
+
+
++ Cluster info 
+Kubernetes master is running at https://192.168.99.100:8443
+KubeDNS is running at https://192.168.99.100:8443/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+
+
++ Demo application 
+    + Cluster is running and ready for deployment 
+    + Spring boot application - back end 
+    + Back end : port: 8080 
+    + Build docker image for the back end 
+    + Dockerize the application 
+    + Trigger the process on the Docker host of the Minikube cluster 
+    + Minikube wont find the images later during deployment 
+    + Workspace on our host must be mounted into the Minikube VM
+
+
+
+    
+
+
+
