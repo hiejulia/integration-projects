@@ -33,7 +33,8 @@ services:
   #     - '3306'
 
 
-  # PostgreSQL docker container - database 
+  # PostgreSQL docker container - database  - Run in docker container 
+
   # postgresql:
   #   image: postgres:latest
   #   restart: always
@@ -43,8 +44,13 @@ services:
   #     POSTGRES_PASSWORD: password
   #   ports:
   #     - 49151:5432
-    # volumes:
-    #   - database_data1:/var/lib/postgresql/data
+  #   volumes:
+  #     - database_data1:/var/lib/postgresql/data
+
+
+  # Hay that - aday la 1 dua co ca tinh - ko hien dau 
+
+  
 
   
 
@@ -67,6 +73,20 @@ services:
 
 # IP address : 127.0.0.1
 
+
+
+
+
+# su dung apache hadoop - no khong so day - may nghi no bi vay ha 
+
+# Lol - no bat lai day - con nho nay hai vcl 
+
+
+# Run in detached mode
+
+
+
+# Nghe dream theater do bac - lol - what the hell 
 
 
 
