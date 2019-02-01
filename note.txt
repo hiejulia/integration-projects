@@ -29,7 +29,7 @@ https://github.com/kbastani/cloud-native-microservice-strangler-example
 https://github.com/typesafehub/activator-akka-java-spring
 https://github.com/spring-projects/spring-integration-aws
 https://github.com/graphql-java/graphql-java-spring
-https://github.com/ibm-messaging/mq-jms-spring
+
 https://github.com/bhagyas/spring-mahout-demo
 https://github.com/spring-cloud/spring-cloud-stream-modules
 https://github.com/ignacioSuay/spring-stream
@@ -41,7 +41,6 @@ https://github.com/victor-ferrer/stokker
 https://github.com/erenavsarogullari/OTV_Spring_Integration_Message_Processing
 https://github.com/joshlong/spring-integration-activiti-sandbox
 https://github.com/picadoh/boots
-https://github.com/sunny4381/spring-boot-integration-crawler-sample
 https://github.com/bijukunjummen/si-dsl-rabbit-sample
 https://github.com/vrto/spring-integration-invoices/tree/master/src
 https://github.com/aatarasoff/spring-cloud-marathon
@@ -55,21 +54,8 @@ https://github.com/spring-guides/gs-integration
 https://github.com/mwnorman/spring-cloud-config-server-s3
 https://github.com/natronq/openshift-vault
 
- 
-kieu deo ai hieu no het y - 
-
-
-
-may hieu ko - no phai nuoi cai cam xuc day 
-
-
-
-
-crawler example - no van chua tot nghiep dau - lol - con nho nay thu vi vai - thang nay ngay nao cung thuong nho con be nay 
-
-
-
-
+https://github.com/artembilan/si-http-download-excel-sample
+https://github.com/platan/varnish-exec
 
 
 
