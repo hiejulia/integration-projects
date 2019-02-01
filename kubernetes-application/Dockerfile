@@ -14,3 +14,4 @@ ARG JAR_FILE
 COPY ${JAR_FILE} kubernetes-application.jar
 ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/app.jar"]
 
+
