@@ -4,17 +4,9 @@ https://github.com/spring-cloud/spring-cloud-kubernetes
 https://github.com/xpadro/spring-integration
 https://github.com/spring-projects/spring-integration-extensions
 https://github.com/spring-cloud/spring-cloud-netflix
-https://github.com/spring-cloud/spring-cloud-aws
-https://github.com/spring-cloud/spring-cloud-gcp
 https://github.com/lkrnac/book-eiws-code-samples
-
-
-
-
-
-https://github.com/xpoft/spring-vaadin - su dung vaadin 
-
-
+https://github.com/xpoft/spring-vaadin - su dung vaadin - check so qua thoi 
+ 
 
 su dung vaadin 
 
@@ -56,6 +48,20 @@ https://github.com/natronq/openshift-vault
 
 https://github.com/artembilan/si-http-download-excel-sample
 https://github.com/platan/varnish-exec
+
+https://github.com/yanaga/winter-data-jpa
+https://github.com/BarathArivazhagan/enterprise-integration-patterns
+
+Java testing : 
+
+
+Cucumber, Spock, Karma or similar
+
+
+
+
+
+
 
 
 
