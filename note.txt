@@ -3,13 +3,14 @@ https://github.com/fabric8io/spring-cloud-kubernetes
 https://github.com/spring-cloud/spring-cloud-kubernetes
 https://github.com/xpadro/spring-integration
 https://github.com/spring-projects/spring-integration-extensions
-https://github.com/spring-cloud/spring-cloud-netflix
+
 https://github.com/lkrnac/book-eiws-code-samples
-https://github.com/xpoft/spring-vaadin - su dung vaadin - check so qua thoi 
- 
 
-su dung vaadin 
+https://github.com/xpoft/spring-vaadin 
 
+
+
+https://github.com/canchito-dev/integrate-activiti-with-spring
 
 https://github.com/ghillert/spring-atmosphere-samples
 https://github.com/yangboz/spring-boot-activiti-restful
@@ -57,16 +58,22 @@ https://github.com/platan/varnish-exec
 
 https://github.com/yanaga/winter-data-jpa
 https://github.com/BarathArivazhagan/enterprise-integration-patterns
+https://github.com/BarathArivazhagan/enterprise-integration-patterns
+https://github.com/spring-projects/spring-integration-flow
 
-Java testing : 
-
-
-Cucumber, Spock, Karma or similar
-
-
-con be nay nghe nhac - 
+https://github.com/efenderbosch/spring-boot-aws-cloudsearch
+https://github.com/TechPrimers/spring-integration-example-1
+https://github.com/42patterns/training-spring-integration
 
 
 
 
+
+
+
+
++ Check het article Spring integration 
+
+
++ Check het medium Spring integration 
 
